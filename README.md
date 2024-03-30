@@ -7,6 +7,6 @@
 
 <p>the only package required is playsound:</p>
 <blockquote><p>pip install playsound</p></blockquote><br>
-and run main.py
+then run main.py
 
 
